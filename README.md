@@ -9,7 +9,7 @@ This portfolio showcases my projects, skills, and contact information.
 
 ## Projects
 
-- Project 1 — My first web project
+- Project 1 — My first web project.
 - Project 2 — Another project built during my learning journey
 
 ## Technologies
